@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEChessScript", "SEChessScript\SEChessScript.csproj", "{B03F120C-2AC2-4AC6-8CDA-75B003704FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03F120C-2AC2-4AC6-8CDA-75B003704FE3}.Debug|x64.ActiveCfg = Debug|x64
+		{B03F120C-2AC2-4AC6-8CDA-75B003704FE3}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56780F2-D291-4A98-8C9D-88ADC9729C92}
+	EndGlobalSection
+EndGlobal
