@@ -9,5 +9,6 @@ Displaying of chess notation, <br />
 Serialization (saving) of data during and after the chess game has been finished upon exiting the game, <br />
 CRUD operations of chess games except 'update' - You can save, delete, review and analyse saved games. <br />
 
-
+Link to a funny presentational video of the project on my youtube channel: <br />
+https://www.youtube.com/watch?v=8Lq_-svI6RU
 
